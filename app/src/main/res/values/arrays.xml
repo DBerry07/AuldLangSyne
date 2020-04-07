@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="stores_names">
+        <item>99 cent</item>
+        <item>acme</item>
+        <item>albertsons</item>
+        <item>aldi</item>
+        <item>amigos</item>
+        <item>andronico</item>
+        <item>balducci</item>
+        <item>bashas</item>
+        <item>big lot</item>
+        <item>bi-lo</item>
+        <item>bj</item>
+        <item>city market</item>
+        <item>costco</item>
+        <item>publix</item>
+    </array>
+
+
+
+    <array name="store_start">
+                <item>7:00</item>
+
+
+                <item>7:00</item>
+
+
+                <item>7:00</item>
+
+
+
+
+                <item>8:30</item>
+
+
+
+                <item>Store Opening</item>
+
+
+                <item>Store Opening</item>
+                <item>Tuesday, Thursday</item>
+
+                <item>First Hour of Business</item>
+                <item>Everyday</item>
+
+                <item>5:00</item>
+                <item>Everyday</item>
+
+                <item>First Hour of Business</item>
+                <item>Everyday</item>
+
+                <item>8:00</item>
+                <item>Weekdays</item>
+
+                <item>8:00</item>
+                <item>Everyday</item>
+
+                <item>5:00</item>
+                <item>Everyday</item>
+
+                <item>8:00</item>
+                <item>Tuesday,Thursday</item>
+
+                <item>7:00</item>
+                <item>Tuesday,Thursday</item>
+
+    </array>
+
+    <array name="store_end">
+        <item>8:00</item>
+        <item>9:00</item>
+        <item>9:00</item>
+        <item>9:00</item>
+        <item>9:00</item>
+        <item>8:00</item>
+        <item>First Hour of Business</item>
+        <item>6:00</item>
+        <item>First Hour of Business</item>
+        <item>9:00</item>
+        <item>9:00</item>
+        <item>6:00</item>
+        <item>9:00</item>
+        <item>8:00</item>
+    </array>
+
+    <array name="store_days">
+        <item>Tuesday, Thursday</item>
+        <item>Weekdays</item>
+        <item>Tuesday, Thursday</item>
+        <item>Tuesday, Thursday</item>
+        <item>Monday, Thursday</item>
+    </array>
+</resources>
